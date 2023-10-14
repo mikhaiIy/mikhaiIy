@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">A future data engineer with a strong foundation in Computer Science.Currently pursuing a Bachelor of Computer Science in Data Engineering at Universiti Teknologi Malaysia.</h3>
+<h3 align="center">A future data engineer with a strong foundation in Computer Science</h3>
+<h3 align="center">Currently pursuing a Bachelor of Computer Science in Data Engineering at Universiti Teknologi Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhaiiy&label=Profile%20views&color=0e75b6&style=flat" alt="mikhaiiy" /> </p>
 
