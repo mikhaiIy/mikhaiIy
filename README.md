@@ -13,8 +13,6 @@
 </p>
 
 <!--START_SECTION:badges-->
-[![Penetration Testing, Incident Response and Forensics](https://images.credly.com/size/100x100/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png)](http://www.credly.com/badges/ecf01b05-5348-432e-9247-93ea559d31a6 "Penetration Testing, Incident Response and Forensics")
-[![Cybersecurity IT Fundamentals Specialization](https://images.credly.com/size/100x100/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](http://www.credly.com/badges/43542a30-685e-46fb-9b16-da289332e75a "Cybersecurity IT Fundamentals Specialization")
 <!--END_SECTION:badges-->
           
 <h3 align="left">Languages and Tools:</h3>
