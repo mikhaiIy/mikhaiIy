@@ -19,7 +19,7 @@
 <h3 align="left">🏆Licences & Certifications</h3>
 <p align="left">
 </p>
-<p href="https://www.credly.com/badges/33877240-597b-45f2-8211-6306b1bf45b8/public_url">Microsoft Certified: Azure AI Fundamentals</p>
+<a href='https://www.credly.com/badges/33877240-597b-45f2-8211-6306b1bf45b8/public_url'>Microsoft Certified: Azure AI Fundamentals</a>
 - 🎖️[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/33877240-597b-45f2-8211-6306b1bf45b8/public_url)
 - 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/5b93c137-c38f-4c56-988b-5fdee0fa9bb2/public_url)
           
