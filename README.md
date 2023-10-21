@@ -28,6 +28,8 @@ Currently pursuing a **Bachelor of Computer Science in Data Engineering** at Uni
 <details>
  <summary><h2>💻 GitHub Profile Stats</h2></summary>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mikhaiIy&theme=transparent&hide_border=true&currStreakNum=EBDCDC&ring=EBEBEB&sideNums=EBEBEB&sideLabels=287BEB&dates=EBEBEB&currStreakLabel=287BEB" alt="GitHub Streak" /></a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaiIy)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
