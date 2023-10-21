@@ -130,6 +130,9 @@ Currently pursuing a **Bachelor of Computer Science in Data Engineering** at Uni
 
 <details>
  <summary><h2>📂My Past Project</h2></summary>
+ <p align="left">
+
+ </p>
 </details>
 
 <details>
