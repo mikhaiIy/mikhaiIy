@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="mikhaily.jpg" alt="mikhaily" width="350px">
-</div>
-
 # 🧑‍🔬Mikhail Bin Yassin
 
 <!-- Introduction section -->
