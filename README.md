@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="PhotoMikhail.htm" alt="mikhaily" width="350px" height="350px">
-</div>
-
 # 🧑‍🔬Mikhail Bin Yassin
 
 <!-- Introduction section -->
