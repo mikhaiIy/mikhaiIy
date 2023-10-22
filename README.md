@@ -1,7 +1,11 @@
+<div align="left">
+  <img src="mikhaily.jpg" alt="mikhaily" width="350px">
+</div>
+
 # 🧑‍🔬Mikhail Bin Yassin
 
 <!-- Introduction section -->
-**`Future Data Engineer (Bachelor of Computer Science(Data Engineering))`**
+**`Future Data Engineer (Bachelor of Computer Science - Data Engineering)`**
 
 Hi there! I'm Mikhail Bin Yassin, from Sabah, Malaysia. 
 
