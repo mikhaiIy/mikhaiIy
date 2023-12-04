@@ -153,6 +153,7 @@ Currently pursuing a **Bachelor of Computer Science in Data Engineering** at Uni
  
 - 🎖️[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/5b93c137-c38f-4c56-988b-5fdee0fa9bb2/public_url)
 - 🎖️[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/33877240-597b-45f2-8211-6306b1bf45b8/public_url)
+- 🎖️[Alteryx Designer Core Certification](https://www.credly.com/badges/ef4fb579-9116-468c-b84f-726d0449a408/public_url)
 
 </details>
 
